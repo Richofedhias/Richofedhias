@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richo Fedhia S</h1>
 <h3 align="center">Pengembang mobile apps dari indonesia, jenius yang pemalas</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=richofedhias&label=Profile%20views&color=0e75b6&style=flat" alt="richofedhias" /> </p>
+
 
 
 
